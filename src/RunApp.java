@@ -1,5 +1,3 @@
-package com.mycompany.hospitalsystem;
-
 import java.util.ArrayList;
 
 public class RunApp {
