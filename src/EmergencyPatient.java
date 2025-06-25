@@ -1,5 +1,3 @@
-package com.mycompany.hospitalsystem;
-
 public class EmergencyPatient extends PatientBase {
 	
 	private double emergencyFee;
