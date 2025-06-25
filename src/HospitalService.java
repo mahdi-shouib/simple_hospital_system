@@ -1,5 +1,3 @@
-package com.mycompany.hospitalsystem;
-
 public class HospitalService {
 	
 	private String serviceName;
