@@ -1,5 +1,3 @@
-package com.mycompany.hospitalsystem;
-
 public class Doctor implements Comparable<Doctor> {
 	
 	private String doctorId;
