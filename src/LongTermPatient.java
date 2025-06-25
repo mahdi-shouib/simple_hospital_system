@@ -1,5 +1,3 @@
-package com.mycompany.hospitalsystem;
-
 public class LongTermPatient extends PatientBase{
 	
 	private int daysAdmitted;
